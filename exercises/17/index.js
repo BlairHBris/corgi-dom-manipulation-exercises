@@ -1,3 +1,3 @@
 const image = document.querySelector("img")
 
-console.log(document.image)
+console.log(image)

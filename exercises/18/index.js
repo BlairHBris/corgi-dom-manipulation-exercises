@@ -1,3 +1,3 @@
 const li = document.querySelector("li")
 
-console.log(document.li)
+console.log(li)
