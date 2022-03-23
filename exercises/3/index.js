@@ -1,0 +1,1 @@
+document.getElementById('corgiimg').src="/images/corgi2.jpg";
